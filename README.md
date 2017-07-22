@@ -1,3 +1,2 @@
 # SpringMVC_mybatis
-SpringMVC与mybatis整合小例子
-准备加入pagehelper分页
+SpringMVC与mybatis整合小例子，准备加入pagehelper分页
