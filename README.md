@@ -1,0 +1,2 @@
+# SpringMVC_mybatis
+SpringMVC与mybatis整合小例子
