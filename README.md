@@ -1,2 +1,26 @@
 # SpringMVC_mybatis
 SpringMVC与mybatis整合小例子，有点乱，还没整理，准备加入pagehelper分页。
+需要的jar包有：
+aopalliance.jar
+commons-logging-1.1.1.jar
+jsqlparser-0.9.5.jar
+jstl.jar
+log4j-1.2.16.jar
+mybatis-3.2.0.jar
+mybatis-spring-1.2.1.jar
+mysql-connector-java-5.1.7-bin.jar
+pagehelper-4.2.1.jar
+servlet-api.jar
+spring-aop-4.2.3.RELEASE.jar
+spring-aspects-4.2.3.RELEASE.jar
+spring-beans-4.2.3.RELEASE.jar
+spring-context-4.2.3.RELEASE.jar
+spring-context-support-4.2.3.RELEASE.jar
+spring-core-4.2.3.RELEASE.jar
+spring-expression-4.2.3.RELEASE.jar
+spring-jdbc-4.2.3.RELEASE.jar
+spring-test-4.2.3.RELEASE.jar
+spring-tx-4.2.3.RELEASE.jar
+spring-web-4.2.3.RELEASE.jar
+spring-webmvc-4.2.3.RELEASE.jar
+standard-1.1.2.jar
